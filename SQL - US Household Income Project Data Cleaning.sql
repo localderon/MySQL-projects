@@ -1,4 +1,6 @@
--- US Houshold Income Project Data Cleaning
+-- US Household Income Project Data Cleaning (Guided)
+-- Objective: Clean and standardize a large dataset on U.S. household income for better usability in analysis.
+-- 
 
 SELECT * 
 FROM us_household_income;
