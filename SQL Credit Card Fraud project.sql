@@ -1,4 +1,6 @@
 -- SQL Credit Card Fraud project LIMIT BY 20000 BC MY COMPUTER CANT HANDLE TOO MUCH DATA :(
+-- Data Exploration Project using:
+-- REGEXP, CASE, RANK(), DENSE_RANK(), OVER PARTITION BY, Subqueries, Joins, Date/Time filtering
 
 SELECT *
 FROM fraud_test
