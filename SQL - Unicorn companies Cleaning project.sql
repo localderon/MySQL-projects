@@ -1,4 +1,5 @@
 -- Unicorn companies Cleaning project 
+-- Using Distinct, SUBSTRINGS. 
 
 SELECT *
 FROM unicorn_companies_dataset
