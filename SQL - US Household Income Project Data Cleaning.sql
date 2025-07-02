@@ -1,6 +1,6 @@
 -- US Household Income Project Data Cleaning (Guided)
 -- Objective: Clean and standardize a large dataset on U.S. household income for better usability in analysis.
--- 
+-- Using Case statements, row_number, Over(), Partition by(). 
 
 SELECT * 
 FROM us_household_income;
