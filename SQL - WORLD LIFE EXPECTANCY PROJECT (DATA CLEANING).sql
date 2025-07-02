@@ -1,4 +1,5 @@
 -- WORLD LIFE EXPECTANCY PROJECT (DATA CLEANING)
+-- Using Case statements, OVER(), Partition by(), SUBQUERIES, JOIN.
 
 -- SELECT ALL OUR DATA
 
