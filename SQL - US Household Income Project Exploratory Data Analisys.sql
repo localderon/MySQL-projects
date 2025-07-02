@@ -1,5 +1,5 @@
--- US Houshold Income Project Exploratory Data Analisys
-
+-- US Household Income Project Exploratory Data Analysis
+-- Using JOIN clause, INNER JOIN, 
 
 SELECT * 
 FROM us_household_income;
