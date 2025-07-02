@@ -1,4 +1,5 @@
 -- WORLD LIFE EXPECTANCY PROJECT (EXPLORATORY DATA ANALYSIS)
+-- Using Group by, Having, Case statement, Over(), Partition by().
 
 SELECT *
 FROM world_life_expectancy
